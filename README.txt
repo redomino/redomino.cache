@@ -1,6 +1,6 @@
 Description
 ============
 
-This products configures plone.app.caching
+This product configures plone.app.caching
 
 
